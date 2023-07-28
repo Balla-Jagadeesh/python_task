@@ -1,0 +1,33 @@
+Q-5. A certain city has two taxi companies: Company A has 80% of the taxis and
+Company B has 20% of the taxis. Company A's taxis have a 95% success rate for picking
+up passengers on time, while Company B's taxis have a 90% success rate. If a randomly
+selected taxi is late, what is the probability that it belongs to Company A?
+
+
+To calculate the probability that a randomly selected late taxi belongs to Company A, we can use Bayes' theorem.
+
+Let's define the following probabilities:
+P(A) = Probability of selecting a taxi from Company A = 0.8
+P(B) = Probability of selecting a taxi from Company B = 0.2
+P(L|A) = Probability that a taxi from Company A is late = 1 - 0.95 = 0.05 (since success rate is 95%)
+P(L|B) = Probability that a taxi from Company B is late = 1 - 0.90 = 0.10 (since success rate is 90%)
+
+We want to calculate P(A|L), which is the probability that a late taxi belongs to Company A.
+
+According to Bayes' theorem:
+
+P(A|L) = (P(L|A) * P(A)) / (P(L|A) * P(A) + P(L|B) * P(B))
+
+Let's plug in the values:
+
+P(A|L) = (0.05 * 0.8) / (0.05 * 0.8 + 0.10 * 0.2)
+
+Simplifying the equation:
+
+P(A|L) = 0.04 / (0.04 + 0.02)
+
+P(A|L) = 0.04 / 0.06
+
+P(A|L) = 0.6667
+
+Therefore, the probability that a randomly selected late taxi belongs to Company A is approximately 0.6667 or 66.67%.

@@ -1,0 +1,6 @@
+Q-7. The equations of two lines of regression, obtained in a correlation analysis
+between variables X and Y are as follows:
+and . 2𝑋 + 3 − 8 = 0 2𝑌 + 𝑋 − 5 = 0 The variance of 𝑋 = 4 Find the
+a. Variance of Y
+b. Coefficient of determination of C and Y
+c. Standard error of estimate of X on Y and of Y on X.

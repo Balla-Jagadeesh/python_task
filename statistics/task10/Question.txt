@@ -1,0 +1,6 @@
+Q-10. A factory produces light bulbs, and the probability of a bulb being defective is 0.05.
+The factory produces a large batch of 500 light bulbs.
+a. What is the probability that exactly 20 bulbs are defective?
+b. What is the probability that at least 10 bulbs are defective?
+c. What is the probability that at max 15 bulbs are defective?
+d. On average, how many defective bulbs would you expect in a batch of 500?

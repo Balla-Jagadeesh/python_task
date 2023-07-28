@@ -1,0 +1,3 @@
+Q-9. Given the score of students in multiple exams
+Test the hypothesis that the mean scores of all the students are the same. If not, name the
+student with the highest score.

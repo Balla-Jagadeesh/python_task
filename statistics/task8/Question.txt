@@ -1,0 +1,4 @@
+Q-8. The anxiety levels of 10 participants were measured before and after a new therapy.
+The scores are not normally distributed. Use the Wilcoxon signed-rank test to test whether
+the therapy had a significant effect on anxiety levels. The data is given below: Participant
+Before therapy After therapy Difference

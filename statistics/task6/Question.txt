@@ -1,0 +1,5 @@
+Q-6. A pharmaceutical company is developing a drug that is supposed to reduce blood
+pressure. They conduct a clinical trial with 100 patients and record their blood
+pressure before and after taking the drug. The company wants to know if the change
+in blood pressure follows a normal distribution.
+https://drive.google.com/file/d/1mCjtYHiX--mMUjicuaP2gH3k-SnFxt8Y/view?usp=share_

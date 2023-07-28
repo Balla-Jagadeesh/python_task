@@ -1,0 +1,8 @@
+Given the data of a feature contributing to different classes
+https://drive.google.com/file/d/1mCjtYHiX--mMUjicuaP2gH3k-SnFxt8Y/view?usp
+=share_
+a. Check whether the distribution of all the classes are the same or not.
+b. Check for the equality of variance/
+c. Which amount LDA and QDA would perform better on this data for
+classification and why.
+d. Check the equality of mean for between all the classes.

@@ -1,0 +1,9 @@
+Q-3. Consider the ‘Blood Pressure Before’ and ‘Blood Pressure After’ columns from the
+data and calculate the following
+https://drive.google.com/file/d/1mCjtYHiX--mMUjicuaP2gH3k-SnFxt8Y/view?usp=share_
+a. Measure the dispersion in both and interpret the results.
+b. Calculate mean and 5% confidence interval and plot it in a graph
+c. Calculate the Mean absolute deviation and Standard deviation and interpret
+the results.
+d. Calculate the correlation coefficient and check the significance of it at 1% level
+of significance.
